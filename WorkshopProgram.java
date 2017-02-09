@@ -8,6 +8,9 @@ public class WorkshopProgram{
 		count = 10;
 		for(int i = 0; i <= 10; i++){
 			System.out.println("Make SCESoc great again");
+            		System.out.println("SCE Soc is great!!!");
+            System.out.prinln("My name is orinami");
+            
       System.out.println("SCE Soc is great!!!");
 			System.out.println(name + " buys a Nintendo switch");
 			System.out.println("Morgan is best");
@@ -35,7 +38,6 @@ public class WorkshopProgram{
 				System.out.print(jakeName);
 			}
 			System.out.print("\n");
-
 		}
                 
                 System.out.println("??,??????????. \n"
