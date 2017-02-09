@@ -27,7 +27,7 @@ public class WorkshopProgram{
 			System.out.println("Logan J. MacGillivray");
 
   		        System.out.println("SCE Soc is great!!!");
-			System.out.println("Noor :-)")
+			System.out.println("Noor :-)");
 			System.out.println("Logan J. MacGillivray");
 		}
 		String jakeName = "Jacob";
