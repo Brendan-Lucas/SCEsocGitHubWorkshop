@@ -10,5 +10,11 @@ public class WorkshopProgram{
 			System.out.println("Make SCESoc great again");
             		System.out.println("SCE Soc is great!!!");
 		}
+		String jakeName = "Jacob";
+		for(int i = 0; i <= 4; i++) {
+			for (int j = i; i <=4; i++) {
+				System.out.println(jakeName);
+			}
+		}
 	}
 }
