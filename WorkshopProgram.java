@@ -13,20 +13,20 @@ public class WorkshopProgram{
             		System.out.println("Justin Sward");
 			System.out.println("Shane Brockbank);
             		System.out.println("SCE Soc is great!!!");
-            System.out.prinln("My name is orinami");
+            		System.out.prinln("My name is orinami");
 
-      System.out.println("SCE Soc is great!!!");
+      			System.out.println("SCE Soc is great!!!");
 			System.out.println(name + " buys a Nintendo switch");
 			System.out.println("Morgan is best");
 			System.out.println("Paul is a fun guy");
 			System.out.println("Make SCESoc great again");
 
-      System.out.println("SCE Soc is great!!!");
+     		        System.out.println("SCE Soc is great!!!");
 
 			System.out.println("Jonah Proulx");
 			System.out.println("Logan J. MacGillivray");
 
-      System.out.println("SCE Soc is great!!!");
+  		        System.out.println("SCE Soc is great!!!");
 			System.out.println("Noor :-)")
 			System.out.println("Logan J. MacGillivray");
 		}
@@ -44,7 +44,7 @@ public class WorkshopProgram{
 			System.out.print("\n");
 
     }                
-                System.out.println("??,??????????. \n"
+                	System.out.println("??,??????????. \n"
                                  + "trump is deporting me once this workshop ends, help");
 	}
 }
