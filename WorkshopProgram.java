@@ -8,7 +8,10 @@ public class WorkshopProgram{
 		count = 10;
 		for(int i = 0; i <= 10; i++){
 			System.out.println("Make SCESoc great again");
-
+            System.out.println("SCE Soc is great!!!");
+            System.out.println("Emma is a fantastic human being.");
+            System.out.println("microwaving a microwave microwaving a toaster.");
+		}
             		System.out.println("SCE Soc is great!!!");
             		System.out.println("Justin Sward");
 			System.out.println("Shane Brockbank);
