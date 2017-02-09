@@ -13,7 +13,7 @@ public class WorkshopProgram{
             		System.out.println("Justin Sward");
 			System.out.println("Shane Brockbank);
             		System.out.println("SCE Soc is great!!!");
-            		System.out.prinln("My name is orinami");
+            		System.out.println("My name is orinami");
 
       			System.out.println("SCE Soc is great!!!");
 			System.out.println(name + " buys a Nintendo switch");
@@ -31,13 +31,13 @@ public class WorkshopProgram{
 			System.out.println("Logan J. MacGillivray");
 		}
 		String jakeName = "Jacob";
-		for (int i = 4; i >= 0; i--) {
+		for (i = 4; i >= 0; i--) {
 			for (int j = i; j <=4; j++) {
 				System.out.print(jakeName);
 			}
 			System.out.print("\n");
 		}
-		for (int i = 0; i <= 3; i++) {
+		for (i = 0; i <= 3; i++) {
 			for (int j = i; j <=3; j++) {
 				System.out.print(jakeName);
 			}
