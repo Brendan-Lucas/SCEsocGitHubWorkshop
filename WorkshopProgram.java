@@ -16,6 +16,7 @@ public class WorkshopProgram{
             System.out.println("Emma is a fantastic human being.");
             System.out.println("microwaving a microwave microwaving a toaster.");
 		}
+		System.out.println("Jack");
             		System.out.println("SCE Soc is great!!!");
             		System.out.println("Justin Sward");
 			System.out.println("Shane Brockbank);
