@@ -9,6 +9,8 @@ public class WorkshopProgram{
 		for(int i = 0; i <= 10; i++){
 			System.out.println("Make SCESoc great again");
             		System.out.println("SCE Soc is great!!!");
+            System.out.prinln("My name is orinami");
+            
 		}
 	}
 }
