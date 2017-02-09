@@ -10,6 +10,7 @@ public class WorkshopProgram{
 			System.out.println("Morgan is best");
 			System.out.println("Make SCESoc great again");
             		System.out.println("SCE Soc is great!!!");
+					System.out.println("Logan J. MacGillivray");
 		}
 		String jakeName = "Jacob";
 		for (int i = 4; i >= 0; i--) {
