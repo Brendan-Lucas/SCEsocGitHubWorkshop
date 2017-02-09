@@ -10,5 +10,6 @@ public class WorkshopProgram{
 			System.out.println("Make SCESoc great again");
             		System.out.println("SCE Soc is great!!!");
 		}
+		System.out.println("Jack");
 	}
 }
