@@ -4,7 +4,7 @@ public class WorkshopProgram{
 	public static int count;
   
 	public static void main(String[] args){
-		name = "Andrew";
+		name = "Bubble";
 		count = 10;
 		for(int i = 0; i <= 10; i++){
 			System.out.println("Make SCESoc great again");
